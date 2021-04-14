@@ -1,0 +1,25 @@
+.card1{
+    margin-top: 50px;
+    margin-left: 70px;
+    width: 250px;
+    height: 40px;
+    box-shadow: 1.5px 1.5px 1.5px 1.5px#aaaaaa;
+}
+.card1 > h4{
+    margin-left: 20px;
+    padding-top: 6px;
+    font-weight: 25px;
+}
+.card2{
+    margin-left: 70px;
+    width: 250px;
+    height: 230px;
+    box-shadow: 1px 1px 1px 1px #aaaaaa;
+
+}
+.card2 > h4{
+    margin-left: 20px;
+    padding-top: 10px;
+    font-weight: 25px;
+
+}

@@ -1,0 +1,17 @@
+.alpha{ 
+    margin: 30px;
+    width: 100%;
+    display: flex!important;
+    flex-wrap: wrap!important;
+    /* justify-content: space-around; */
+}
+.bttn{
+    background: linear-gradient(45deg, orange, red);
+    height: 30px;
+    width: 60px  !important;
+}
+.btn1{
+    background: white !important;
+    width: 20px!important;
+    height: 30px;
+}

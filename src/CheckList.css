@@ -1,0 +1,9 @@
+.check{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+hr.new{
+    border: 0.1px solid black;
+    height: 1;
+    width: 200px;
+}

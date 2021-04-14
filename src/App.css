@@ -1,0 +1,41 @@
+*{
+  margin: 0;
+}
+
+.app{
+  background-color: #F8F8F8;
+  width: 100%;
+}
+.app_head{
+  margin-top: 40px;
+  margin-left: 70px;
+  margin-right: 70px;
+  background-color: #DFDFDF;
+  height: 50px;
+  display:flex;
+  flex-direction: row;
+}
+.nav{
+  margin-left:30px;
+  padding-top: 13px;
+  font-weight: lighter;
+  /* font-size:; */
+}
+.content{
+  display: flex;
+  flex-direction: row;
+}
+.app_left{
+  width: 300px;
+}
+.app_right{
+  margin: 40px;
+  width: 1060px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+}
+.app_right > h1{
+  display: flex;
+  justify-content:center;
+}
